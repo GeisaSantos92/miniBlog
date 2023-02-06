@@ -8,7 +8,7 @@ Recursos explorados:
  * buscador de imagens (pelo nome da tag)
  * CRUD (onde o usuário pode criar, editar, excluir e ver os posts cadastrados)
 
-### `npm start`
+### link: https://mini-blog-dvgprkn0o-geisasantos92.vercel.app/
 
 
 
